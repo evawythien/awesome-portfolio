@@ -1,0 +1,19 @@
+{
+  "name": "awesome-portfolio",
+  "version": "1.0.0",
+  "description": "Personal photo portfolio.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evawythien/awesome-portfolio.git"
+  },
+  "author": "evawythien",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evawythien/awesome-portfolio/issues"
+  },
+  "homepage": "https://github.com/evawythien/awesome-portfolio#readme"
+}
