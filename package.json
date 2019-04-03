@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "cross-env": "^5.2.0",
+    "fs": "0.0.1-security",
     "nuxt": "^2.4.0"
   },
   "devDependencies": {
