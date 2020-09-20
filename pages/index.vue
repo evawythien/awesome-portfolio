@@ -42,7 +42,7 @@ export default {
   justify-content: center;
   align-items: center;
   text-align: center;
-  background-color: red;
+  background-color: white;
 }
 
 .title {

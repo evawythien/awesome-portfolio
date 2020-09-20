@@ -17,12 +17,7 @@ h2 a {
 </style>
 
 <script>
-export default function(x) {
-  return function constant() {
-    var fs = require('fs');
-    return x;
-  };
-}
+
 
 // var files = fs.readdirSync('/assets/photos/');
 // console.log(files);
